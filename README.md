@@ -58,6 +58,9 @@ A API utiliza tokens JWT para autenticação.
 ## Tratamento de Erros
 Erros são retornados com status code apropriado e mensagem padronizada.
 
+## Logs
+A API implementa o NLog, gerando arquivos diários de logs da aplicação na pasta /logs no diretório raiz do projeto.
+
 ## Paginação
 A listagem de pedidos suporta paginação através dos parâmetros `page` e `pageSize`.
 
