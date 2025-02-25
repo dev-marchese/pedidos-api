@@ -64,7 +64,7 @@ A listagem de pedidos suporta paginação através dos parâmetros `page` e `pag
 ## Instruções de Configuração e Execução
 1. Abrir um terminal
 2. Clonar o repositório para máquina local.
-   - git clone https://github.com/dev-marchese/pedidos-api.git
+   - `git clone https://github.com/dev-marchese/pedidos-api.git`
 3. Navegar até a pasta raiz do projeto.
 4. Executar `dotnet restore`.
 5. Executar `dotnet run`.
