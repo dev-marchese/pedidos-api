@@ -79,8 +79,20 @@ A listagem de pedidos suporta paginação através dos parâmetros `page` e `pag
       "password": "admin"
     }
     ```
-- userName e passWord estão fixos dentro da aplicação, então devem ser mantidos na requisição conforme exemplo acima. Após gerar o token, ele deve ser inserido da opção `Authorize` no topo da página para que as requisições para os demais endpoints sejam aceitas.
+- userName e passWord estão fixos dentro da aplicação, então devem ser mantidos na requisição conforme exemplo acima. Após gerar o token, ele deve ser inserido da opção `Authorize` no topo da página para que as requisições para os demais endpoints sejam autorizadas.
 
 ## Cache com Redis
 
-O endpoint `/api/v1/pedidos/{id}` armazena a consulta executada em cache. Para configurar a conexão com um serviço redis local, basta alterar o ip no arquivo appsettings.
+1. A consulta contida no endpoint `/api/v1/pedidos/{id}` armazena o resultado em cache. Para configurar a conexão com um serviço redis local, basta alterar o ip no arquivo `appsettings.json`.
+- **Exemplo de Configuração**:
+```json
+"Redis": {
+  "IP": "0.0.0.0:0000",
+  "InstanceName": "PedidoInstance:"
+}
+```
+2. Caso o redis não esteja configurado, o endpoint retornará a consulta normalmente, porém, ela não será armazenada em cache.
+
+## Banco de Dados
+
+Executar o arquivo `create-database.sql` para criação da base de dados e das tabelas.
