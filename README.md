@@ -69,3 +69,18 @@ A listagem de pedidos suporta paginação através dos parâmetros `page` e `pag
 4. Executar `dotnet restore`.
 5. Executar `dotnet run`.
 6. Acessar a url http://localhost:5236/swagger/index.html
+
+## Gerando Token JWT
+1. `/api/v1/pedidos`:
+- **Exemplo de Requisição**: 
+    ```json
+    {
+      "userName": "admin",
+      "password": "admin"
+    }
+    ```
+- userName e passWord estão fixos dentro da aplicação, então devem ser mantidos na requisição conforme exemplo acima. Após gerar o token, ele deve ser inserido da opção `Authorize` no topo da página para que as requisições para os demais endpoints sejam aceitas.
+
+## Cache com Redis
+
+O endpoint `/api/v1/pedidos/{id}` armazena a consulta executada em cache. Para configurar a conexão com um serviço redis local, basta alterar o ip no arquivo appsettings.
