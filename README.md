@@ -113,7 +113,9 @@ Console.WriteLine(string.Join(', ', resultado)); //
 O correto: string.Join(',', resultado) ou string.Join(", ", resultado) para se usar separador de aspas simples é aceito somente um caracter. Remover o espaço após a vírgula ou trocar para aspas duplas
 
 
-Resposta: O código atual iria resultar em erro. Porém, a lógica do algoritmo acima consiste em multiplicar por 2 os números pares da lista. Seriam impressos 4, 8 ```
+Resposta: O código atual iria resultar em erro. Porém, a lógica do algoritmo acima consiste em multiplicar por 2 os números pares da lista. Seriam impressos 4, 8
+
+```
 
 
 2. Se você rodar a query abaixo no banco de dados, o que acontecerá?
@@ -154,6 +156,10 @@ public async Task<List<Usuario>> BuscarUsuarios()
     return db.Usuarios.ToListAsync();
   }
 }
+
+```
+
+
 
 Resposta: o correto é `return await db.Usuarios.ToListAsync();`, pois o método `BuscarUsuarios` é assíncrono. Ou seja, a função deverá aguardar o retorno do método ToListAsync().
 
