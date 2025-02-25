@@ -49,8 +49,8 @@ void ConfigureServices(IServiceCollection services)
 	//Registra o cache do Redis
 	services.AddStackExchangeRedisCache(options =>
 	{
-		options.Configuration = "172.27.51.24:6379"; 
-		options.InstanceName = "PedidoInstance:";
+		options.Configuration = builder.Configuration["Redis:IP"]; 
+		options.InstanceName = builder.Configuration["Redis:InstanceName"];
 	});
 
 	services.AddEndpointsApiExplorer();

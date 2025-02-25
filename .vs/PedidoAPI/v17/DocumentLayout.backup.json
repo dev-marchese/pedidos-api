@@ -128,7 +128,7 @@
               "RelativeDocumentMoniker": "PedidoAPI\\Middlewares\\ExceptionHandlingMiddleware.cs",
               "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Middlewares\\ExceptionHandlingMiddleware.cs",
               "RelativeToolTip": "PedidoAPI\\Middlewares\\ExceptionHandlingMiddleware.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T18:30:42.223Z",
               "EditorCaption": ""
@@ -143,8 +143,7 @@
               "RelativeToolTip": "PedidoAPI\\Repositories\\PedidoRepository.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAwwDYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T15:22:53.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T15:22:53.784Z"
             },
             {
               "$type": "Document",
@@ -156,8 +155,7 @@
               "RelativeToolTip": "PedidoAPI\\Repositories\\BaseRepository.cs",
               "ViewState": "AgIAAOcAAAAAAAAAAAAmwPkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T14:56:34.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T14:56:34.803Z"
             },
             {
               "$type": "Document",
@@ -169,8 +167,7 @@
               "RelativeToolTip": "PedidoAPI\\Repositories\\UsuarioRepository.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T15:22:29.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T15:22:29.521Z"
             },
             {
               "$type": "Document",
@@ -182,8 +179,7 @@
               "RelativeToolTip": "PedidoAPI\\Repositories\\IUsuarioRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T16:35:30.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T16:35:30.541Z"
             },
             {
               "$type": "Document",
@@ -195,8 +191,7 @@
               "RelativeToolTip": "PedidoAPI\\Services\\UsuarioService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T16:30:21.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T16:30:21.951Z"
             },
             {
               "$type": "Document",
@@ -208,8 +203,7 @@
               "RelativeToolTip": "PedidoAPI\\Services\\IUsuarioService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T16:30:58.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T16:30:58.503Z"
             },
             {
               "$type": "Document",
@@ -221,8 +215,7 @@
               "RelativeToolTip": "PedidoAPI\\Services\\PedidoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T16:30:01.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T16:30:01.626Z"
             },
             {
               "$type": "Document",
@@ -234,8 +227,7 @@
               "RelativeToolTip": "PedidoAPI\\Services\\IPedidoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T16:30:41.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T16:30:41.604Z"
             },
             {
               "$type": "Document",
@@ -247,8 +239,7 @@
               "RelativeToolTip": "PedidoAPI\\Repositories\\IPedidoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T15:24:03.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T15:24:03.14Z"
             },
             {
               "$type": "Document",
@@ -260,8 +251,7 @@
               "RelativeToolTip": "PedidoAPI\\Configurations\\ServiceCollectionConfigurations.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T17:46:38.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T17:46:38.166Z"
             },
             {
               "$type": "Document",
@@ -273,8 +263,7 @@
               "RelativeToolTip": "PedidoAPI\\Controllers\\AuthenticationController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T16:10:56.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T16:10:56.994Z"
             },
             {
               "$type": "Document",
@@ -286,8 +275,7 @@
               "RelativeToolTip": "PedidoAPI\\DTOs\\LoginDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T16:12:25.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T16:12:25.677Z"
             },
             {
               "$type": "Document",
@@ -299,8 +287,7 @@
               "RelativeToolTip": "PedidoAPI\\Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T14:04:31.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T14:04:31.534Z"
             },
             {
               "$type": "Document",
@@ -312,8 +299,7 @@
               "RelativeToolTip": "PedidoAPI\\Models\\Pedido.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T14:11:21.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T14:11:21.368Z"
             },
             {
               "$type": "Document",
@@ -325,8 +311,7 @@
               "RelativeToolTip": "PedidoAPI\\DTOs\\PedidoDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T14:10:15.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T14:10:15.685Z"
             },
             {
               "$type": "Document",
@@ -338,8 +323,7 @@
               "RelativeToolTip": "PedidoAPI\\DTOs\\UsuarioDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T13:52:39.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T13:52:39.992Z"
             },
             {
               "$type": "Document",
@@ -351,8 +335,7 @@
               "RelativeToolTip": "PedidoAPI\\Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T14:29:53.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T14:29:53.044Z"
             },
             {
               "$type": "Document",
@@ -364,8 +347,7 @@
               "RelativeToolTip": "PedidoAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-25T03:03:30.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T03:03:30.564Z"
             },
             {
               "$type": "Document",
@@ -377,8 +359,7 @@
               "RelativeToolTip": "PedidoAPI\\Controllers\\UsuariosController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T17:55:51.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:55:51.286Z"
             },
             {
               "$type": "Document",
@@ -390,8 +371,7 @@
               "RelativeToolTip": "PedidoAPI\\Exceptions\\JsonExceptionFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T20:48:12.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T20:48:12.364Z"
             },
             {
               "$type": "Document",
@@ -403,8 +383,7 @@
               "RelativeToolTip": "PedidoAPI\\Exceptions\\GetMessageException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T21:23:16.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T21:23:16.43Z"
             },
             {
               "$type": "Document",
@@ -416,8 +395,7 @@
               "RelativeToolTip": "PedidoAPI\\Controllers\\PedidosController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwD8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T17:56:02.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:56:02.924Z"
             },
             {
               "$type": "Document",
@@ -429,8 +407,7 @@
               "RelativeToolTip": "PedidoAPI\\Infrastructure\\DatabaseConnection.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T14:40:45.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T14:40:45.588Z"
             },
             {
               "$type": "Document",
@@ -442,8 +419,7 @@
               "RelativeToolTip": "PedidoAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-23T14:28:22.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T14:28:22.058Z"
             },
             {
               "$type": "Document",
@@ -455,8 +431,7 @@
               "RelativeToolTip": "PedidoAPI\\Services\\TokenService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAABQwBkAAABvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T13:45:58.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T13:45:58.267Z"
             },
             {
               "$type": "Document",
@@ -468,8 +443,7 @@
               "RelativeToolTip": "PedidoAPI\\PedidoAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-23T13:52:59.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T13:52:59.875Z"
             }
           ]
         }
