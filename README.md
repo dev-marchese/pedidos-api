@@ -96,3 +96,65 @@ A listagem de pedidos suporta paginação através dos parâmetros `page` e `pag
 ## Banco de Dados
 
 Executar o arquivo `create-database.sql` para criação da base de dados e das tabelas.
+
+## Resposta as perguntas
+
+1. Dado o seguinte código, o que será impresso no console? Explique sua resposta.
+
+## Resposta às perguntas
+
+1. Dado o seguinte código, o que será impresso no console? Explique sua resposta.
+
+```csharp
+var lista = new List { 1, 2, 3, 4, 5 };
+//O correto é: var lista = new List<int> { 1, 2, 3, 4, 5 }; é necessário indicar um tipo para a lista
+var resultado = lista.Where(x => x % 2 == 0).Select(x => x * 2);
+Console.WriteLine(string.Join(', ', resultado)); //
+O correto: string.Join(',', resultado) ou string.Join(", ", resultado) para se usar separador de aspas simples é aceito somente um caracter. Remover o espaço após a vírgula ou trocar para aspas duplas
+
+
+Resposta: O código atual iria resultar em erro. Porém, a lógica do algoritmo acima consiste em multiplicar por 2 os números pares da lista. Seriam impressos 4, 8 ```
+
+
+2. Se você rodar a query abaixo no banco de dados, o que acontecerá?
+
+```csharp
+SELECT * FROM Usuarios WHERE Nome LIKE '%_Silva%'
+
+Resposta: retornará registros que contenham a palavra `Silva` em qualquer posição no campo `Nome`
+
+```
+
+3. Considere o código abaixo. Qual será a saída e por quê?
+
+```csharp
+public class Exemplo
+{
+  public string Nome { get; set; }
+  public Exemplo(string nome) {
+    Nome = nome ?? "Sem Nome";
+  }
+}
+
+var obj = new Exemplo(null);
+Console.WriteLine(obj.Nome);
+
+Resposta: O resultado retornado será `Sem Nome`, pois o valor passado na instância da classe Exemplo foi null. Sendo null, o retorno é `Sem Nome`
+
+```
+   
+4. O que está errado no código abaixo e como corrigir?
+
+```csharp
+
+public async Task<List<Usuario>> BuscarUsuarios()
+{
+  using (var db = new MeuDbContext())
+  {
+    return db.Usuarios.ToListAsync();
+  }
+}
+
+Resposta: o correto é `return await db.Usuarios.ToListAsync();`, pois o método `BuscarUsuarios` é assíncrono. Ou seja, a função deverá aguardar o retorno do método ToListAsync().
+
+```
