@@ -1,0 +1,46 @@
+15:40:24 | Error | Erro ao executar consulta. | Uma conexão com o servidor foi estabelecida com êxito, mas ocorreu um erro durante o processo de logon. (provider: Provedor de SSL, error: 0 - A cadeia de certificação foi emitida por uma autoridade que não é de confiança.)
+15:40:55 | Error | Erro ao executar consulta. | Uma conexão com o servidor foi estabelecida com êxito, mas ocorreu um erro durante o processo de logon. (provider: Provedor de SSL, error: 0 - A cadeia de certificação foi emitida por uma autoridade que não é de confiança.)
+16:23:40 | Error | Erro ao executar Insert. | Não é possível inserir uma linha de chave duplicada no objeto 'dbo.Usuario' com índice exclusivo 'IX_Email'. O valor de chave duplicada é (maria@gmail.com).
+A instrução foi finalizada.
+16:24:29 | Error | Erro ao executar Insert. | Não é possível inserir uma linha de chave duplicada no objeto 'dbo.Usuario' com índice exclusivo 'IX_Email'. O valor de chave duplicada é (maria@gmail.com).
+A instrução foi finalizada.
+16:37:07 | Error | Erro ao executar Insert. | Não é possível inserir uma linha de chave duplicada no objeto 'dbo.Usuario' com índice exclusivo 'IX_Email'. O valor de chave duplicada é (maria@gmail.com).
+A instrução foi finalizada.
+16:44:03 | Error | Erro ao executar Insert. | Não é possível inserir uma linha de chave duplicada no objeto 'dbo.Usuario' com índice exclusivo 'IX_Email'. O valor de chave duplicada é (maria@gmail.com).
+A instrução foi finalizada.
+16:46:14 | Error | Erro ao executar Insert: Email já existe. | Não é possível inserir uma linha de chave duplicada no objeto 'dbo.Usuario' com índice exclusivo 'IX_Email'. O valor de chave duplicada é (maria@gmail.com).
+A instrução foi finalizada.
+16:46:16 | Error | Erro inesperado na aplicação | ::1 | Controller: UsuariosController | Action: CreateUsuario | O email informado já está cadastrado.
+16:46:58 | Error | Erro ao executar Insert: Email já existe. | Não é possível inserir uma linha de chave duplicada no objeto 'dbo.Usuario' com índice exclusivo 'IX_Email'. O valor de chave duplicada é (maria@gmail.com).
+A instrução foi finalizada.
+16:54:24 | Error | Erro ao executar Insert: Email já existe. | Não é possível inserir uma linha de chave duplicada no objeto 'dbo.Usuario' com índice exclusivo 'IX_Email'. O valor de chave duplicada é (maria@gmail.com).
+A instrução foi finalizada.
+18:16:21 | Error | Erro ao executar Insert. | A instrução INSERT conflitou com a restrição do FOREIGN KEY "FK_Pedido_Pedido". O conflito ocorreu no banco de dados "Pedidos", tabela "dbo.Usuario", column 'Id'.
+A instrução foi finalizada.
+21:36:52 | Error | Erro ao executar Insert:  inválido. | A instrução INSERT conflitou com a restrição do FOREIGN KEY "FK_Pedido_Pedido". O conflito ocorreu no banco de dados "Pedidos", tabela "dbo.Usuario", column 'Id'.
+A instrução foi finalizada.
+21:47:36 | Error | Erro ao executar Insert: dbo.Usuario inválido. | A instrução INSERT conflitou com a restrição do FOREIGN KEY "FK_Pedido_Pedido". O conflito ocorreu no banco de dados "Pedidos", tabela "dbo.Usuario", column 'Id'.
+A instrução foi finalizada.
+21:54:45 | Error | Erro ao executar Insert: dbo.Usuario inválido. | A instrução INSERT conflitou com a restrição do FOREIGN KEY "FK_Pedido_Pedido". O conflito ocorreu no banco de dados "Pedidos", tabela "dbo.Usuario", column 'Id'.
+A instrução foi finalizada.
+21:56:20 | Error | Erro ao executar Insert: chave estrangeira inválida. Tabela: dbo.Usuario, Coluna: Id | A instrução INSERT conflitou com a restrição do FOREIGN KEY "FK_Pedido_Pedido". O conflito ocorreu no banco de dados "Pedidos", tabela "dbo.Usuario", column 'Id'.
+A instrução foi finalizada.
+22:07:59 | Error | Erro ao executar consulta. SQL: select * from pedidos where usuarioid = 14 | Nome de objeto 'pedidos' inválido.
+22:08:25 | Error | Erro ao executar consulta. SQL: select * from pedidos where usuarioid = 14 | Nome de objeto 'pedidos' inválido.
+22:08:38 | Error | Erro ao executar consulta. SQL: select * from pedidos where usuarioid = 14 | Nome de objeto 'pedidos' inválido.
+22:08:50 | Error | Erro ao executar consulta. SQL: select * from pedidos where usuarioid = 15 | Nome de objeto 'pedidos' inválido.
+22:08:52 | Error | Erro ao executar consulta. SQL: select * from pedidos where usuarioid = 15 | Nome de objeto 'pedidos' inválido.
+22:08:56 | Error | Erro ao executar consulta. SQL: select * from pedidos where usuarioid = 16 | Nome de objeto 'pedidos' inválido.
+22:13:44 | Error | Erro inesperado na aplicação | ::1 | Controller: Pedidos | Action: GetPedidosByUsuarioId | Missing type map configuration or unsupported mapping.
+
+Mapping types:
+List`1 -> PedidoDTO
+System.Collections.Generic.List`1[[PedidoAPI.Models.Pedido, PedidoAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> PedidoAPI.DTOs.PedidoDTO
+22:17:20 | Error | Erro ao executar Update: chave estrangeira inválida. Tabela: dbo.Usuario, Coluna: Id | A instrução UPDATE conflitou com a restrição do FOREIGN KEY "FK_Pedido_Pedido". O conflito ocorreu no banco de dados "Pedidos", tabela "dbo.Usuario", column 'Id'.
+A instrução foi finalizada.
+22:47:01 | Error | Erro ao executar consulta. SQL: select * from Pedido where usuarioid = 16 order by Id offset @offset rows fetch next 0size rows only | É necessário declarar a variável escalar "@offset".
+Uso inválido da opção next na instrução FETCH.
+22:47:17 | Error | Erro ao executar consulta. SQL: select * from Pedido where usuarioid = 16 order by Id offset @offset rows fetch next 0size rows only | É necessário declarar a variável escalar "@offset".
+Uso inválido da opção next na instrução FETCH.
+22:47:31 | Error | Erro ao executar consulta. SQL: select * from Pedido where usuarioid = 16 order by Id offset @offset rows fetch next 0size rows only | É necessário declarar a variável escalar "@offset".
+Uso inválido da opção next na instrução FETCH.

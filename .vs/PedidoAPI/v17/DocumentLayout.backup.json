@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\PedidoAPI\\pedidos-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\services\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\services\\ipedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\services\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\repositories\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\repositories\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\repositories\\ipedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\configurations\\servicecollectionconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\configurations\\servicecollectionconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\dtos\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\dtos\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\exceptions\\jsonexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\exceptions\\jsonexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\infrastructure\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\infrastructure\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\exceptions\\getmessageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\exceptions\\getmessageexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|c:\\projetos\\pedidoapi\\pedidos-api\\pedidoapi\\pedidoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7503DAA7-DE46-4404-B6A3-2EDCAD722768}|PedidoAPI\\PedidoAPI.csproj|solutionrelative:pedidoapi\\pedidoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "PedidoAPI\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:30:42.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Repositories\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\Repositories\\PedidoRepository.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Repositories\\PedidoRepository.cs",
+              "RelativeToolTip": "PedidoAPI\\Repositories\\PedidoRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:22:53.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "PedidoAPI\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAmwPkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:56:34.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "PedidoAPI\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:22:29.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Repositories\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\Repositories\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Repositories\\IUsuarioRepository.cs",
+              "RelativeToolTip": "PedidoAPI\\Repositories\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:35:30.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "PedidoAPI\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:30:21.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Services\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\Services\\IUsuarioService.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Services\\IUsuarioService.cs",
+              "RelativeToolTip": "PedidoAPI\\Services\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:30:58.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Services\\PedidoService.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\Services\\PedidoService.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Services\\PedidoService.cs",
+              "RelativeToolTip": "PedidoAPI\\Services\\PedidoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:30:01.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPedidoService.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Services\\IPedidoService.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\Services\\IPedidoService.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Services\\IPedidoService.cs",
+              "RelativeToolTip": "PedidoAPI\\Services\\IPedidoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T16:30:41.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPedidoRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Repositories\\IPedidoRepository.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\Repositories\\IPedidoRepository.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Repositories\\IPedidoRepository.cs",
+              "RelativeToolTip": "PedidoAPI\\Repositories\\IPedidoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T15:24:03.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceCollectionConfigurations.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Configurations\\ServiceCollectionConfigurations.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\Configurations\\ServiceCollectionConfigurations.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Configurations\\ServiceCollectionConfigurations.cs",
+              "RelativeToolTip": "PedidoAPI\\Configurations\\ServiceCollectionConfigurations.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T17:46:38.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "PedidoAPI\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:10:56.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "PedidoAPI\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:12:25.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Models\\Usuario.cs",
+              "RelativeToolTip": "PedidoAPI\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:04:31.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Models\\Pedido.cs",
+              "RelativeToolTip": "PedidoAPI\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:11:21.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PedidoDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\DTOs\\PedidoDTO.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\DTOs\\PedidoDTO.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\DTOs\\PedidoDTO.cs",
+              "RelativeToolTip": "PedidoAPI\\DTOs\\PedidoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:10:15.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\DTOs\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\DTOs\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\DTOs\\UsuarioDTO.cs",
+              "RelativeToolTip": "PedidoAPI\\DTOs\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T13:52:39.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\Program.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Program.cs",
+              "RelativeToolTip": "PedidoAPI\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:29:53.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PedidoAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PedidoAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T03:03:30.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "PedidoAPI\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:55:51.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "JsonExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Exceptions\\JsonExceptionFilter.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\Exceptions\\JsonExceptionFilter.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Exceptions\\JsonExceptionFilter.cs",
+              "RelativeToolTip": "PedidoAPI\\Exceptions\\JsonExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T20:48:12.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetMessageException.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Exceptions\\GetMessageException.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\Exceptions\\GetMessageException.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Exceptions\\GetMessageException.cs",
+              "RelativeToolTip": "PedidoAPI\\Exceptions\\GetMessageException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:23:16.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "PedidoAPI\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwD8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:56:02.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Infrastructure\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\Infrastructure\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Infrastructure\\DatabaseConnection.cs",
+              "RelativeToolTip": "PedidoAPI\\Infrastructure\\DatabaseConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:40:45.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PedidoAPI\\appsettings.json",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\appsettings.json",
+              "RelativeToolTip": "PedidoAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T14:28:22.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "PedidoAPI\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\Services\\TokenService.cs",
+              "RelativeToolTip": "PedidoAPI\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAABQwBkAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:45:58.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PedidoAPI.csproj",
+              "DocumentMoniker": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\PedidoAPI.csproj",
+              "RelativeDocumentMoniker": "PedidoAPI\\PedidoAPI.csproj",
+              "ToolTip": "C:\\Projetos\\PedidoAPI\\pedidos-api\\PedidoAPI\\PedidoAPI.csproj",
+              "RelativeToolTip": "PedidoAPI\\PedidoAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-23T13:52:59.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
